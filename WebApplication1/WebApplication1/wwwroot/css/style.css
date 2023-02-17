@@ -1,0 +1,52 @@
+body {
+    background-image: url("https://i.kym-cdn.com/photos/images/original/001/431/201/40f.png");
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+#button {
+    color: salmon;
+    border: 2px solid rgb(216, 2, 134);
+    border-radius: 0px;
+    padding: 18px 36px;
+    display: inline-block;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size: 14px;
+    letter-spacing: 1px;
+    cursor: pointer;
+    box-shadow: inset 0 0 0 0 #ffd800;
+    -webkit-transition: ease-out 0.4s;
+    -moz-transition: ease-out 0.4s;
+    transition: ease-out 0.4s;
+}
+
+h1 {
+    margin-top: 15%;
+    font-family: Garamond, serif;
+    text-align: center;
+    color: salmon;
+    font-size: 60px;
+    text-shadow: 5px 5px #000000;
+}
+
+#searchBox {
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+
+#query {
+    margin: auto;
+    display: block;
+}
+
+#searchResults {
+    visibility:hidden;
+}
+
+#time {
+    visibility:hidden;
+}

@@ -1,0 +1,7 @@
+C:\Users\jwcollins3\Source\Repos\MIS421\mis-421-assignment-2-jquery-and-ajax-jwcollins3\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.exe
+C:\Users\jwcollins3\Source\Repos\MIS421\mis-421-assignment-2-jquery-and-ajax-jwcollins3\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\jwcollins3\Source\Repos\MIS421\mis-421-assignment-2-jquery-and-ajax-jwcollins3\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\jwcollins3\Source\Repos\MIS421\mis-421-assignment-2-jquery-and-ajax-jwcollins3\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.dll
+C:\Users\jwcollins3\Source\Repos\MIS421\mis-421-assignment-2-jquery-and-ajax-jwcollins3\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.deps.json
+C:\Users\jwcollins3\Source\Repos\MIS421\mis-421-assignment-2-jquery-and-ajax-jwcollins3\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+C:\Users\jwcollins3\Source\Repos\MIS421\mis-421-assignment-2-jquery-and-ajax-jwcollins3\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.pdb
